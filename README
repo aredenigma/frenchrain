@@ -1,3 +1,7 @@
-This processing program is a re-creation of Camille Utterback's "Text Rain" (1999) using processing. In my version, lines from Guillaume Apollinaire's poem "Il pleut" (it rains) fall from the top of the screen, and you can catch them with your body. 
+This processing program is a re-creation of Camille Utterback's "Text Rain" (1999) using processing. In my version, lines from Guillaume Apollinaire's poem "Il pleut" ("It rains") fall from the top of the screen, and you can catch them with your body. 
 
-Thanks to Mike Taylor & John Gruen (carnegie mellon) for nudges in the right direction. 
+See the original poem here: (http://lccmagd.files.wordpress.com/2011/02/ilpleut1.jpg)
+
+This demo was created for Golan Levin's 'Interactive Art & Computational Design' course at Carnegie Mellon University, Spring 2013.
+
+Thanks to Mike Taylor & John Gruen (Carnegie Mellon) for nudges in the right direction - particularly for helping me make my retinabook & processing play nice… 
